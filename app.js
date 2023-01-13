@@ -10,7 +10,7 @@ const monstros = [
         id: 2,
         nome: 'MegaMente',
         altura: 3,
-        habilidades: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore id delectus voluptates rem ipsa? Ipsam perferendis officiis dignissimos omnis dolor, alias pariatur! Maiores tempora nesciunt cum, consequatur nisi iure aliquid.',
+        habilidades: 'Lorem dolor, sit amet consectetur adipisicing elit. Labore id delectus voluptates rem ipsa? Ipsam perferendis officiis dignissimos omnis dolor, alias pariatur! Maiores tempora nesciunt cum, consequatur nisi iure aliquid.',
         foto: 'https://robohash.org/MegaMente'
     },
     {
