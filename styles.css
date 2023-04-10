@@ -69,7 +69,7 @@ section {
     color: var(--cor-principal);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .container {
       padding: 60px;
     
