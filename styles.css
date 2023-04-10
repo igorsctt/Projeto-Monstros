@@ -68,3 +68,16 @@ section {
 .habilidades {
     color: var(--cor-principal);
 }
+
+@media (max-width: 600px) {
+    .container {
+      padding: 60px;
+    
+    }
+    section {
+      width: 100%;
+      height: 70%;
+    }
+   
+  }
+  
