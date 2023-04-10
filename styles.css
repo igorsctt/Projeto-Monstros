@@ -69,13 +69,13 @@ section {
     color: var(--cor-principal);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
     .container {
-      padding: 60px;
+      padding: 30px 20px;
     
     }
     section {
-      width: 100%;
+      width: 70%;
       height: 70%;
     }
    
